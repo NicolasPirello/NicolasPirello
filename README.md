@@ -5,16 +5,28 @@
 
 <h1 align="center">Hola 👋, Me llamo Nicolas Alejandro Pirello</h1>
 <h3 align="center">Soy Desarrollador Web Full Stack, estudie en Digital House y me apasiona el mundo de la Programacion.</h3>
-  
 
-- 🌱 Soy un apasionado de la Tecnologia  
--  😀 Me gustan los desafíos y aprender constantemente  
-  
+## Skills adquiridas (Lenguajes, Librerias, Modulos)
 
-**Mis proyectos:**  
-  
-<br/>  
+El material mencionado no solo es material servido en el curso, también se agregó material que se aprendió de forma individual con el fin de crear un proyecto con mejor calidad.
 
+ - NodeJS
+ - Express
+ - HTML
+ - CSS (Grid y Flexbox)
+ - JS para el BackEnd
+ - JS para el FrontEnd
+ - MySQL
+ - Express Validator
+ - Multer
+ - ORM (Sequilize)
+ - Express Session
+ - Morgan
+ - Cors
+ - Bcryptjs
+ - Dotenv
+ - EJS
+ - Body-parser
 
 ## Mis Skill   
 <table><tr><td valign="top" width="33%">
