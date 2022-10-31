@@ -27,6 +27,8 @@ El material mencionado no solo es material aprendido en el curso de Digital Hous
  - Dotenv
  - EJS
  - Body-parser
+ - React
+ - React Router Dom
 
 ### Habilidades de Deploy adquiridas.
 
