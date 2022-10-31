@@ -28,7 +28,7 @@ El material mencionado no solo es material aprendido en el curso de Digital Hous
  - EJS
  - Body-parser
 
-<h3 align="center">Proyectos desarrollados: </h3>
+<h2 align="center">Proyectos desarrollados: </h2>
 
  - Tienda de Cafe: <a href="https://github.com/NicolasPirello/MecafeG6-DH-Pirello" target="_blank">[Proyecto de estudiante, grupal]</a>
  - Dashboard REACT del Proyecto Integrador: <a href="https://github.com/NicolasPirello/MecafeREACT-DH-Pirello" target="_blank">[Proyecto de dos Integrantes]</a>
