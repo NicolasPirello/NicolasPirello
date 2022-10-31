@@ -5,7 +5,9 @@
 <h1 align="center">Hola 👋, Me llamo Nicolas Alejandro Pirello</h1>
 <h3 align="center">Soy Desarrollador Web Full Stack, estudie en Digital House y me apasiona el mundo de la Programacion.</h3>
 
-## Skills adquiridas (Lenguajes, Librerias, Modulos)
+<div align="center">
+# Skills adquiridas (Lenguajes, Librerias, Modulos)
+</div> 
 
 El material mencionado no solo es material aprendido en el curso de Digital House, también se agregó material que se aprendió de forma individual con el fin de crear proyectos de mejor calidad.
 
@@ -27,6 +29,12 @@ El material mencionado no solo es material aprendido en el curso de Digital Hous
  - Dotenv
  - EJS
  - Body-parser
+
+<div align="center">
+# Proyectos desarrollados: 
+ - Tienda de Cafe: [Proyecto de estudiante, grupal](https://github.com/NicolasPirello/MecafeG6-DH-Pirello)
+ - Dashboard REACT del Proyecto Integrador [Proyecto de dos Integrantes](https://github.com/NicolasPirello/MecafeREACT-DH-Pirello)
+</div> 
 
 <div align="center">
 
