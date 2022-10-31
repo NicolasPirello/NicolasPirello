@@ -44,9 +44,9 @@ El material mencionado no solo es material aprendido en el curso de Digital Hous
 
 <h2 align="center">Proyectos desarrollados: </h2>
 
- - Tienda de Cafe: <a href="https://github.com/NicolasPirello/MecafeG6-DH-Pirello" target="_blank">[Proyecto de estudiante, grupal]</a> | <a href="https://mecafeg6-dh-pirello-production.up.railway.app/" target="_blank">[Deploy]</a>
- - Dashboard REACT del Proyecto Integrador: <a href="https://github.com/NicolasPirello/MecafeREACT-DH-Pirello" target="_blank">[Proyecto de dos Integrantes]</a> | <a href="https://nicolaspirello.github.io/MecafeREACT-DH-Pirello/" target="_blank">[Deploy]</a>
- - Tarjetas de REACT Responsive: <a href="https://nicolaspirello.github.io/react-cards-responsive" target="_blank">[Deploy]</a>
+ - Tienda de Cafe: <a href="https://github.com/NicolasPirello/MecafeG6-DH-Pirello" target="_blank">[Repositorio]</a> | <a href="https://mecafeg6-dh-pirello-production.up.railway.app/" target="_blank">[Deploy]</a>
+ - Dashboard REACT del Proyecto Integrador: <a href="https://github.com/NicolasPirello/MecafeREACT-DH-Pirello" target="_blank">[Repositorio]</a> | <a href="https://nicolaspirello.github.io/MecafeREACT-DH-Pirello/" target="_blank">[Deploy]</a>
+ - Tarjetas de REACT Responsive: <a href="https://github.com/NicolasPirello/react-cards-responsive" target="_blank">[Repositorio]</a> | <a href="https://nicolaspirello.github.io/react-cards-responsive" target="_blank">[Deploy]</a>
 
 <div align="center">
 
