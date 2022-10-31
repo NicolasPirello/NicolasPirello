@@ -28,6 +28,20 @@ El material mencionado no solo es material aprendido en el curso de Digital Hous
  - EJS
  - Body-parser
 
+### Habilidades de Deploy adquiridas.
+
+ #### Railway.app
+ - Base de datos SQL
+ - NodeJS con APIS
+
+ #### Heroku
+ - Base de Datos SQL
+ - NodeJS con APIS
+ - REACT con consumo de API del Proyecto Integrador.
+ 
+#### GitHub Pages
+- REACT con consumo de API del Proyecto Integrador.
+
 <h2 align="center">Proyectos desarrollados: </h2>
 
  - Tienda de Cafe: <a href="https://github.com/NicolasPirello/MecafeG6-DH-Pirello" target="_blank">[Proyecto de estudiante, grupal]</a>
