@@ -3,7 +3,7 @@
 </div>  
 
 <h1 align="center">Hola 👋, Me llamo Nicolas Alejandro Pirello</h1>
-<h3 align="center">Soy Desarrollador Web Full Stack, estudie en Digital House y me apasiona el mundo de la Programacion.</h3>
+<h3 align="center">Soy Desarrollador Web Full Stack Junior, estudie en Digital House y me apasiona el mundo de la Programacion.</h3>
 
 <h2 align="center">Skills adquiridas (Lenguajes, Librerias, Modulos)</h2>
 
