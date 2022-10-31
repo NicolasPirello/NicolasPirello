@@ -16,6 +16,7 @@ El material mencionado no solo es material aprendido en el curso de Digital Hous
  - JS para el BackEnd
  - JS para el FrontEnd
  - MySQL
+ - SQL Server
  - Express Validator
  - Multer
  - ORM (Sequilize)
