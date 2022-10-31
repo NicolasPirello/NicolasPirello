@@ -29,8 +29,9 @@ El material mencionado no solo es material aprendido en el curso de Digital Hous
  - Body-parser
 
 <h3 align="center">Proyectos desarrollados: </h3>
- - Tienda de Cafe: [Proyecto de estudiante, grupal](https://github.com/NicolasPirello/MecafeG6-DH-Pirello)
- - Dashboard REACT del Proyecto Integrador [Proyecto de dos Integrantes](https://github.com/NicolasPirello/MecafeREACT-DH-Pirello)
+
+ - Tienda de Cafe: <a href="https://github.com/NicolasPirello/MecafeG6-DH-Pirello" target="_blank">[Proyecto de estudiante, grupal]</a>
+ - Dashboard REACT del Proyecto Integrador: <a href="https://github.com/NicolasPirello/MecafeREACT-DH-Pirello" target="_blank">[Proyecto de dos Integrantes]</a>
 
 <div align="center">
 
