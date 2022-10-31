@@ -46,7 +46,7 @@ El material mencionado no solo es material aprendido en el curso de Digital Hous
 
  - Tienda de Cafe: <a href="https://github.com/NicolasPirello/MecafeG6-DH-Pirello" target="_blank">[Proyecto de estudiante, grupal]</a>
  - Dashboard REACT del Proyecto Integrador: <a href="https://github.com/NicolasPirello/MecafeREACT-DH-Pirello" target="_blank">[Proyecto de dos Integrantes]</a>
- - Tarjetas de REACT Responsive: <a href="(https://nicolaspirello.github.io/react-cards-responsive)" target="_blank">[Deploy]</a>
+ - Tarjetas de REACT Responsive: <a href="https://nicolaspirello.github.io/react-cards-responsive" target="_blank">[Deploy]</a>
 
 <div align="center">
 
