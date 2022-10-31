@@ -1,14 +1,13 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-  
 
 <h1 align="center">Hola 👋, Me llamo Nicolas Alejandro Pirello</h1>
 <h3 align="center">Soy Desarrollador Web Full Stack, estudie en Digital House y me apasiona el mundo de la Programacion.</h3>
 
 ## Skills adquiridas (Lenguajes, Librerias, Modulos)
 
-El material mencionado no solo es material servido en el curso, también se agregó material que se aprendió de forma individual con el fin de crear un proyecto con mejor calidad.
+El material mencionado no solo es material aprendido en el curso de Digital House, también se agregó material que se aprendió de forma individual con el fin de crear proyectos de mejor calidad.
 
  - NodeJS
  - Express
@@ -28,6 +27,8 @@ El material mencionado no solo es material servido en el curso, también se agre
  - EJS
  - Body-parser
 
+<div align="center">
+
 ## Mis Skill   
 <table><tr><td valign="top" width="33%">
 
@@ -43,8 +44,6 @@ El material mencionado no solo es material servido en el curso, también se agre
 
 </td><td valign="top" width="33%">
 
-
-
 ### Backend  
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -56,8 +55,6 @@ El material mencionado no solo es material servido en el curso, también se agre
 
 </td><td valign="top" width="33%">
 
-
-
 ### DevOps  
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
@@ -65,6 +62,8 @@ El material mencionado no solo es material servido en el curso, también se agre
 </div>
 
 </td></tr></table>  
+  
+</div>  
 
 <br/>  
 
