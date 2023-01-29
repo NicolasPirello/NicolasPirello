@@ -46,11 +46,11 @@ El material mencionado no solo es material aprendido en el curso de Digital Hous
 
 <h2 align="center">Proyectos desarrollados: </h2>
 
- - Tienda de Cafe: <a href="https://github.com/NicolasPirello/MecafeG6-DH-Pirello" target="_blank">[Repositorio]</a> | <a href="https://mecafeg6-dh-pirello-production.up.railway.app/" target="_blank">[Deploy]</a>
- - Dashboard REACT del Proyecto Integrador: <a href="https://github.com/NicolasPirello/MecafeREACT-DH-Pirello" target="_blank">[Repositorio]</a> | <a href="https://nicolaspirello.github.io/MecafeREACT-DH-Pirello/" target="_blank">[Deploy]</a>
- - Tarjetas de REACT Responsive: <a href="https://github.com/NicolasPirello/react-cards-responsive" target="_blank">[Repositorio]</a> | <a href="https://nicolaspirello.github.io/react-cards-responsive" target="_blank">[Deploy]</a>
- - Rick and Morty Web: <a href="https://github.com/NicolasPirello/react-rick-and-morty" target="_blank">[Repositorio]</a> | <a href="https://nicolaspirello.github.io/react-rick-and-morty" target="_blank">[Deploy]</a>
- - App List Task: <a href="https://github.com/NicolasPirello/app-task-react" target="_blank">[Repositorio]</a> | <a href="https://nicolaspirello.github.io/app-task-react/" target="_blank">[Deploy]</a>
+ - Tienda de Cafe [NodeJs, Express, MySQL]: <a href="https://github.com/NicolasPirello/MecafeG6-DH-Pirello" target="_blank">[Repositorio]</a> | <a href="https://mecafeg6-dh-pirello-production.up.railway.app/" target="_blank">[Deploy]</a>
+ - Dashboard del Proyecto Integrador [React]: <a href="https://github.com/NicolasPirello/MecafeREACT-DH-Pirello" target="_blank">[Repositorio]</a> | <a href="https://nicolaspirello.github.io/MecafeREACT-DH-Pirello/" target="_blank">[Deploy]</a>
+ - Tarjetas Responsive [React]: <a href="https://github.com/NicolasPirello/react-cards-responsive" target="_blank">[Repositorio]</a> | <a href="https://nicolaspirello.github.io/react-cards-responsive" target="_blank">[Deploy]</a>
+ - Rick and Morty Web [React, API]: <a href="https://github.com/NicolasPirello/react-rick-and-morty" target="_blank">[Repositorio]</a> | <a href="https://nicolaspirello.github.io/react-rick-and-morty" target="_blank">[Deploy]</a>
+ - App List Task [React]: <a href="https://github.com/NicolasPirello/app-task-react" target="_blank">[Repositorio]</a> | <a href="https://nicolaspirello.github.io/app-task-react/" target="_blank">[Deploy]</a>
 
 <div align="center">
 
