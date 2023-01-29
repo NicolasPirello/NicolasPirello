@@ -50,6 +50,7 @@ El material mencionado no solo es material aprendido en el curso de Digital Hous
  - Dashboard REACT del Proyecto Integrador: <a href="https://github.com/NicolasPirello/MecafeREACT-DH-Pirello" target="_blank">[Repositorio]</a> | <a href="https://nicolaspirello.github.io/MecafeREACT-DH-Pirello/" target="_blank">[Deploy]</a>
  - Tarjetas de REACT Responsive: <a href="https://github.com/NicolasPirello/react-cards-responsive" target="_blank">[Repositorio]</a> | <a href="https://nicolaspirello.github.io/react-cards-responsive" target="_blank">[Deploy]</a>
  - Rick and Morty Web: <a href="https://github.com/NicolasPirello/react-rick-and-morty" target="_blank">[Repositorio]</a> | <a href="https://nicolaspirello.github.io/react-rick-and-morty" target="_blank">[Deploy]</a>
+ -  - App List Task: <a href="https://github.com/NicolasPirello/app-task-react" target="_blank">[Repositorio]</a> | <a href="https://nicolaspirello.github.io/app-task-react/" target="_blank">[Deploy]</a>
 
 <div align="center">
 
