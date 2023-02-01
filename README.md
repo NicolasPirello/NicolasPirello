@@ -51,7 +51,7 @@ El material mencionado no solo es material aprendido en el curso de Digital Hous
  - Tarjetas Responsive [React]: <a href="https://github.com/NicolasPirello/react-cards-responsive" target="_blank">[Repositorio]</a> | <a href="https://nicolaspirello.github.io/react-cards-responsive" target="_blank">[Deploy]</a>
  - Rick and Morty Web [React, API]: <a href="https://github.com/NicolasPirello/react-rick-and-morty" target="_blank">[Repositorio]</a> | <a href="https://nicolaspirello.github.io/react-rick-and-morty" target="_blank">[Deploy]</a>
  - App List Task [React]: <a href="https://github.com/NicolasPirello/app-task-react" target="_blank">[Repositorio]</a> | <a href="https://nicolaspirello.github.io/app-task-react/" target="_blank">[Deploy]</a>
- -  App List Movies [React & LocalStorage]: <a href="https://nicolaspirello.github.io/app-movies-list-react" target="_blank">[Repositorio]</a> | <a href="https://nicolaspirello.github.io/app-movies-list-react/" target="_blank">[Deploy]</a>
+ -  App List Movies [React & LocalStorage]: <a href="https://github.com/NicolasPirello/app-movies-list-react" target="_blank">[Repositorio]</a> | <a href="https://nicolaspirello.github.io/app-movies-list-react/" target="_blank">[Deploy]</a>
 
 
 <div align="center">
