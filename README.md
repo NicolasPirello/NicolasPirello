@@ -1,4 +1,4 @@
-<img src="assets/header.png" alt="Nicolás Pirello. Integraciones de IA y software para sistemas reales. AI Integration Engineer en Buenos Aires, disponible para trabajo remoto." width="100%" />
+<img src="assets/placa.png" alt="Nicolás Pirello. Integraciones de IA y software para sistemas reales. AI Integration Engineer en Buenos Aires." width="100%" />
 
 [nicolaspirello.com](https://nicolaspirello.com) · [LinkedIn](https://www.linkedin.com/in/nicolas-pirello/) · [dev@nicolaspirello.com](mailto:dev@nicolaspirello.com) · [CV](https://nicolaspirello.com/cv-nicolas-pirello.pdf)
 
@@ -20,6 +20,6 @@ Ciberinteligencia. Plataforma interna, plataforma para clientes y [forxite.com](
 
 [Todos los proyectos](https://nicolaspirello.com/proyectos/)
 
-Programador en Forxite. Desarrollador de software en la Subsecretaría de Tecnología e Informática.
+Programador en Forxite y en la Subsecretaría de Tecnología e Informática.
 
 React · TypeScript · Python · FastAPI · ASP.NET Core · SQL Server · Docker
