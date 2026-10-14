@@ -28,7 +28,7 @@ El portafolio expone herramientas para que los agentes del navegador lo consulte
 
 **05 · [Notificaciones electrónicas](https://nicolaspirello.com/proyectos/notificaciones-electronicas/)**
 
-Sistema en producción. Lo diseñé y construí solo. Lo usan unas 30.000 personas.
+Sistema en producción. Lo usan unas 30.000 personas.
 
 **06 · [Forxite](https://nicolaspirello.com/proyectos/forxite/)**
 
@@ -36,7 +36,7 @@ Ciberinteligencia. Plataforma interna, plataforma para clientes y [forxite.com](
 
 **07 · [Turnos y visitas](https://nicolaspirello.com/proyectos/turnos-y-visitas/)**
 
-Reemplazó la gestión de turnos que se hacía con Word y Gmail. Lo hice solo y desde cero.
+Reemplazó la gestión de turnos que se hacía con Word y Gmail.
 
 **08 · [Gestión de salud laboral](https://nicolaspirello.com/proyectos/gestion-salud-laboral/)**
 
