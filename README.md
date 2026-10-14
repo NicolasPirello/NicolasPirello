@@ -1,6 +1,14 @@
 <img src="assets/placa.png" alt="Nicolás Pirello. Integraciones de IA y software para sistemas reales. AI Integration Engineer en Buenos Aires." width="100%" />
 
-[nicolaspirello.com](https://nicolaspirello.com) · [LinkedIn](https://www.linkedin.com/in/nicolas-pirello/) · [dev@nicolaspirello.com](mailto:dev@nicolaspirello.com) · [CV](https://nicolaspirello.com/cv-nicolas-pirello.pdf)
+<p align="center">
+  <a href="https://nicolaspirello.com">Página web de Nicolás Pirello</a>
+  ·
+  <a href="https://www.linkedin.com/in/nicolas-pirello/">LinkedIn de Nicolás Pirello</a>
+  ·
+  <a href="mailto:dev@nicolaspirello.com">Correo de Nicolás Pirello</a>
+  ·
+  <a href="https://nicolaspirello.com/cv-nicolas-pirello.pdf">CV de Nicolás Pirello</a>
+</p>
 
 **01 · [Balanz MCP](https://nicolaspirello.com/ia/balanz-mcp/)**
 
