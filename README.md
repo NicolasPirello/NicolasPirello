@@ -10,6 +10,10 @@
   <a href="https://nicolaspirello.com/cv-nicolas-pirello.pdf">CV de Nicolás Pirello</a>
 </p>
 
+### Integraciones de IA
+
+Integraciones MCP propias y extendidas, en uso real con ChatGPT.
+
 **01 · [Balanz MCP](https://nicolaspirello.com/ia/balanz-mcp/)**
 
 Servidor propio y de solo lectura que conecta una cuenta de Balanz con ChatGPT.
@@ -25,6 +29,30 @@ Adaptación de reddit-mcp-server, con un transporte nuevo, para usarlo desde Cha
 **04 · [WebMCP](https://nicolaspirello.com/ia/webmcp/)**
 
 El portafolio expone herramientas para que los agentes del navegador lo consulten sin leer el HTML.
+
+**09 · [YouTube Studio MCP](https://nicolaspirello.com/ia/youtube-studio-mcp/)**
+
+Extensión de youtube-studio-mcp con una bandeja de comentarios sin responder, para contestarlos desde ChatGPT.
+
+[Todas las integraciones](https://nicolaspirello.com/ia/)
+
+### Open source
+
+Contribuciones aceptadas en proyectos de otros.
+
+**10 · [MemHub de Tencent en español](https://nicolaspirello.com/open-source/memhub-espanol/)**
+
+Interfaz en español y preferencia de idioma persistente para MemHub, de [Tencent-Hunyuan/Hy-Memory](https://github.com/Tencent-Hunyuan/Hy-Memory). El equipo la tomó como base de su integración, en la que figuro como co-autor. Mergeada en main · [PR #39](https://github.com/Tencent-Hunyuan/Hy-Memory/pull/39) y [PR #142](https://github.com/Tencent-Hunyuan/Hy-Memory/pull/142).
+
+**11 · [Claude Code UI en español](https://nicolaspirello.com/open-source/claude-code-ui-espanol/)**
+
+Traducción completa al español de [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui), una interfaz web para agentes de código. Mergeada en main · [PR #1624](https://github.com/siteboon/claudecodeui/pull/1624).
+
+[Todas las contribuciones](https://nicolaspirello.com/open-source/)
+
+### Proyectos
+
+Software en producción, usado por gente real.
 
 **05 · [Notificaciones electrónicas](https://nicolaspirello.com/proyectos/notificaciones-electronicas/)**
 
